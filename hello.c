@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf%^&("%s\n", "Bye  World");
+	printf("%s\n", "Rock my World");
 	return 0;
 }
